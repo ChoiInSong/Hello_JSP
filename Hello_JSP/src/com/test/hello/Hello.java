@@ -7,6 +7,9 @@ public class Hello {
 		// 012456: hotfix edit by CIS
 		System.out.println("hotfix edit/modify");
 		// 012456: end
+		
+		// 001122: origin/master edit by CIS
+		System.out.println("GitHub edit");
 	}
 
 }
