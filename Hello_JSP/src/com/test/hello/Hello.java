@@ -10,6 +10,10 @@ public class Hello {
 		
 		// 001122: origin/master edit by CIS
 		System.out.println("GitHub edit");
+		
+		// 001144 : origin/master edit by CIS
+		System.out.println("GitHub edit 4567");
+		// 001144 : end
 	}
 
 }
